@@ -1,0 +1,76 @@
+
+.branco{
+    color:white;
+}
+.vermelho{
+    color:#DF0101;
+}
+.verde{
+    color:#31B404;
+}
+.laranja{
+    color:#F47D0D;
+}
+.cinza{
+    color:darkgrey;
+}
+.azul{
+    color:#0609AD;
+}
+#cabeçalho{
+    padding: 0px 10px 0px 50px;
+    width: 70%;
+}
+#cabeçalho h1{
+    color: white;
+    padding: 0px 40px 0px 80px;
+
+
+}
+#cabeçalho h3{
+    font-family:arial;
+    width: 50px;
+    font-size:20px;
+    padding: 0px 0px 0px 30px;
+
+}
+#cabeçalho h4{
+    font-family: arial;
+    width:90px;
+    font-size:10px;
+    color:darkgrey;
+    padding: 0px 0px 0px 0px;
+}
+
+#tituloprincipal{
+    clear:both;
+    font-size: 50px;
+    width: 500px;
+    padding: 40px 20px 10px 50px;      
+}
+#tituloprincipal h3{
+    font-size: 15px;
+    color:#DF0101;
+    padding: 15px 20px 0px 0px;
+}
+
+#noticiassecundarias1{
+    padding:0px 10px 0px 50px;
+    width:60%;   
+}
+#noticiassecundarias li {
+    display:inline;
+    float: left;
+}
+#noticiasfuteis{
+    float:right;
+    padding:50px;
+    padding:20px 0px 15px 0px;
+    width:30%;
+}
+#noticiasfutebol{
+    float:left;
+    padding:20px 0px 15px 0px;
+    width:30%;
+   
+}
