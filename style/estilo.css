@@ -1,4 +1,8 @@
 
+.vertical{
+    height:100px;
+    border-left:1px solid;
+}
 .branco{
     color:white;
 }
@@ -43,34 +47,225 @@
 }
 
 #tituloprincipal{
-    clear:both;
-    font-size: 50px;
+   
+    font-size: 47px;
     width: 500px;
-    padding: 40px 20px 10px 50px;      
+    padding: 40px 20px 10px 50px; 
+    font-family:arial;     
 }
-#tituloprincipal h3{
+    #tituloprincipal h3{
     font-size: 15px;
     color:#DF0101;
     padding: 15px 20px 0px 0px;
+    font-family:arial;
 }
+    #tituloprincipal a{
+    text-decoration: #DF0101;
+    color:#DF0101;
+}
+    #tituloprincipal a:hover{  
+    color: rgb(245, 66, 66);
+}
+#horizontal{
+    width:700px;
+  
+}
+    #um{
+        font-size:24px;
+        width: 170px;
+        padding: 0px 10px 0px 50px;
+        font-family:arial;
+        font-weight:bold;
+        float:left;
+    }
+    #um a{
+        text-decoration: #DF0101;
+    color:#DF0101;
+    }
+    #um a:hover{
+        color: rgb(245, 66, 66);
+    }
+    #dois{
+        font-size:24px;
+        width: 170px;
+        padding: 0px 10px 0px 50px;
+        font-family:arial;
+        font-weight:bold;
+        float:left;
+    }
+    #dois a{
+        text-decoration: #DF0101;
+    color:#DF0101;
+    }
+    #dois a:hover{
+        color: rgb(245, 66, 66);
+    }
+    #tres{
+        font-size:24px;
+        width: 170px;
+        padding: 0px 10px 0px 50px;
+        font-family:arial;
+        font-weight:bold; 
+        float: left;
+    }
+    #tres a{
+        text-decoration: #DF0101;
+    color:#DF0101;
+    }
+    #tres a:hover{
+        color: rgb(245, 66, 66);
+    }
+    #linhahorizont{
+        clear:left;
+        width:700px;
+        padding:20px 0px 20px 50px;
+    }
+    #um1{
+        font-size:24px;
+        width: 170px;
+        padding: 0px 10px 0px 50px;
+        font-family:arial;
+        font-weight:bold;
+        float:left;
+    }
+    #um1 a{
+        text-decoration: #DF0101;
+    color:#DF0101;
+    }
+    #um1 a:hover{
+        color: rgb(245, 66, 66);
+    }
+    #dois2{
+        font-size:24px;
+        width: 170px;
+        padding: 0px 10px 0px 50px;
+        font-family:arial;
+        font-weight:bold;
+        float:left;
+    }
+    #dois2 a{
+        text-decoration: #DF0101;
+    color:#DF0101;
+    }
+    #dois2 a:hover{
+        color: rgb(245, 66, 66);
+    }
+    #tres3{
+        font-size:24px;
+        width: 170px;
+        padding: 0px 10px 0px 50px;
+        font-family:arial;
+        font-weight:bold;
+        float:left;
+    }
+    #tres3 a{
+        text-decoration: #DF0101;
+    color:#DF0101;
+    }
+    #tres3 a:hover{
+        color: rgb(245, 66, 66);  
+    }
+    #fut1{
+        font-size:24px;
+        width: 170px;
+        padding: 0px 10px 20px 50px;
+        font-family:arial;
+        font-weight:bold;
+        float:left;
+    }
+    #fut1 a{
+        text-decoration: #DF0101;
+    color:#DF0101;
+    }
+    #fut1 a:hover{
+        color: rgb(245, 66, 66);
+    }
+        #fut2{
+            font-size:24px;
+            width: 170px;
+            padding: 0px 10px 20px 50px;
+            font-family:arial;
+            font-weight:bold;
+            
+        }
+        #fut2 a{
+            text-decoration: #DF0101;
+        color:#DF0101;
+        }
+        #fut2 a:hover{
+            color: rgb(245, 66, 66);
+        }
+        #fut3{
+            font-size:24px;
+            width: 170px;
+            padding: 0px 10px 20px 50px;
+            font-family:arial;
+            font-weight:bold;
+            
+        }
+        #fut3{
+            text-decoration: #DF0101;
+        color:#DF0101;
+        }
+        #fut4{
+            font-size:24px;
+            width: 170px;
+            padding: 0px 10px 10px 50px;
+            font-family:arial;
+            font-weight:bold;
+            
+        }
+        #fut4 a{
+            text-decoration: #DF0101;
+        color:#DF0101;
+        }
+        #fut4 a:hover{
+            color: rgb(245, 66, 66);
+        }
+        #not1{
+            font-size:24px;
+            width: 170px;
+            padding: 0px 10px 10px 50px;
+            font-family:arial;
+            font-weight:bold;
+            text-decoration: #DF0101;
+        color:#DF0101;
+        }
+        #not2{
+            font-size:24px;
+            width:170px;
+            padding:0px 10px 10px 50px;
+            font-family:arial;
+            font-weight:bold;
+        }
+        #not2 a{
+            text-decoration: #DF0101;
+        color:#DF0101;
+        }
+        #not2 a:hover{
+            color: rgb(245, 66, 66);
+        }
+        #not3{
+            font-size:24px;
+            width:170px;
+            padding:0px 10px 10px 50px;
+            font-family:arial;
+            font-weight:bold;
+        }
+        #not3 a{
+            text-decoration: #DF0101;
+        color:#DF0101;
+        }
+        #not3 a:hover{
+            color: rgb(245, 66, 66);
+        }
 
-#noticiassecundarias1{
-    padding:0px 10px 0px 50px;
-    width:60%;   
-}
-#noticiassecundarias li {
-    display:inline;
-    float: left;
-}
-#noticiasfuteis{
-    float:right;
-    padding:50px;
-    padding:20px 0px 15px 0px;
-    width:30%;
-}
-#noticiasfutebol{
-    float:left;
-    padding:20px 0px 15px 0px;
-    width:30%;
+        
+    
+    
+    
+
    
-}
+
+    
+
