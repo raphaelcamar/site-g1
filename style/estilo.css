@@ -55,7 +55,7 @@
 }
 
 #tituloprincipal{
-   
+  
     font-size: 47px;
     width: 500px;
     padding: 40px 20px 10px 50px; 
@@ -74,13 +74,22 @@
     #tituloprincipal a:hover{  
     color: rgb(245, 66, 66);
 }
-#horizontal{
-    width:700px;
-  
+#noticiassecundarias1{
+    float:left;
+   
+}
+#all{
+    float:left;
+    background-color: black;
+    width: 55%;
+}
+#all2{
+    float:left;
+    width:45%;
 }
     #um{
-        font-size:24px;
-        width: 170px;
+        font-size:20px;
+        width: 150px;
         padding: 0px 10px 0px 50px;
         font-family:arial;
         font-weight:bold;
@@ -94,8 +103,8 @@
         color: rgb(245, 66, 66);
     }
     #dois{
-        font-size:24px;
-        width: 170px;
+        font-size:20px;
+        width: 150px;
         padding: 0px 10px 0px 50px;
         font-family:arial;
         font-weight:bold;
@@ -109,12 +118,14 @@
         color: rgb(245, 66, 66);
     }
     #tres{
-        font-size:24px;
-        width: 170px;
-        padding: 0px 10px 0px 50px;
+        font-size:20px;
+        width: 150px;
+        padding: 0px 0px 0px 50px;
         font-family:arial;
         font-weight:bold; 
         float: left;
+       
+        
     }
     #tres a{
         text-decoration: #DF0101;
@@ -122,19 +133,16 @@
     }
     #tres a:hover{
         color: rgb(245, 66, 66);
-    }
-    #linhahorizont{
-        clear:left;
-        width:700px;
-        padding:20px 0px 20px 50px;
+    
     }
     #um1{
-        font-size:24px;
-        width: 170px;
+        font-size:20px;
+        width: 150px;
         padding: 0px 10px 0px 50px;
         font-family:arial;
         font-weight:bold;
         float:left;
+        clear:left;
     }
     #um1 a{
         text-decoration: #DF0101;
@@ -144,8 +152,8 @@
         color: rgb(245, 66, 66);
     }
     #dois2{
-        font-size:24px;
-        width: 170px;
+        font-size:20px;
+        width: 150px;
         padding: 0px 10px 0px 50px;
         font-family:arial;
         font-weight:bold;
@@ -159,8 +167,8 @@
         color: rgb(245, 66, 66);
     }
     #tres3{
-        font-size:24px;
-        width: 170px;
+        font-size:20px;
+        width: 150px;
         padding: 0px 10px 0px 50px;
         font-family:arial;
         font-weight:bold;
@@ -173,38 +181,40 @@
     #tres3 a:hover{
         color: rgb(245, 66, 66);  
     }
+    #noticiasfutebol{
+    float:left;
+    width:200px;
+    }
     #fut1{
-        font-size:24px;
-        width: 170px;
+        font-size:20px;
+        width:20%;
         padding: 0px 10px 20px 50px;
         font-family:arial;
         font-weight:bold;
-        float:left;
     }
     #fut1 a{
-        text-decoration: #DF0101;
-    color:#DF0101;
+        text-decoration:#31B404 ;
+    color:#31B404;
     }
     #fut1 a:hover{
-        color: rgb(245, 66, 66);
+        color: rgb(110, 209, 77);
     }
         #fut2{
-            font-size:24px;
-            width: 170px;
+            font-size:20px;
+            width: 10px;
             padding: 0px 10px 20px 50px;
             font-family:arial;
-            font-weight:bold;
-            
+            font-weight:bold;  
         }
         #fut2 a{
-            text-decoration: #DF0101;
-        color:#DF0101;
+            text-decoration: #31B404;
+        color:#31B404;
         }
         #fut2 a:hover{
-            color: rgb(245, 66, 66);
+            color: rgb(110, 209, 77);
         }
         #fut3{
-            font-size:24px;
+            font-size:20px;
             width: 170px;
             padding: 0px 10px 20px 50px;
             font-family:arial;
@@ -212,11 +222,11 @@
             
         }
         #fut3{
-            text-decoration: #DF0101;
-        color:#DF0101;
+            text-decoration: #31B404;
+        color:#31B404;
         }
         #fut4{
-            font-size:24px;
+            font-size:20px;
             width: 170px;
             padding: 0px 10px 10px 50px;
             font-family:arial;
@@ -224,25 +234,30 @@
             
         }
         #fut4 a{
-            text-decoration: #DF0101;
-        color:#DF0101;
+            text-decoration: #31B404;
+        color:#31B404;
         }
         #fut4 a:hover{
-            color: rgb(245, 66, 66);
+            color: rgb(110, 209, 77);
+        }
+        #noticiasfuteis{
+            float:left;
+            width:200px;
+            background-color:yellow;
         }
         #not1{
-            font-size:24px;
+            font-size:20px;
             width: 170px;
-            padding: 0px 10px 10px 50px;
+            padding: 0px 10px 10px 10px;
             font-family:arial;
             font-weight:bold;
             text-decoration: #DF0101;
         color:#DF0101;
         }
         #not2{
-            font-size:24px;
+            font-size:20px;
             width:170px;
-            padding:0px 10px 10px 50px;
+            padding:0px 10px 10px 10px;
             font-family:arial;
             font-weight:bold;
         }
@@ -254,9 +269,9 @@
             color: rgb(245, 66, 66);
         }
         #not3{
-            font-size:24px;
+            font-size:20px;
             width:170px;
-            padding:0px 10px 10px 50px;
+            padding:0px 10px 10px 10px;
             font-family:arial;
             font-weight:bold;
         }
