@@ -80,8 +80,14 @@
 }
 #all{
     float:left;
-    background-color: black;
-    width: 55%;
+    width: 50%;
+    border-bottom-color: rgb(255,255,255);
+    border-style:solid;
+    border-top-color:rgb(255,255,255);
+    border-right-color:rgb(172, 166, 166);
+    border-left-color:rgb(255,255,255);
+    border-width:thin;
+   
 }
 #all2{
     float:left;
@@ -183,14 +189,27 @@
     }
     #noticiasfutebol{
     float:left;
-    width:200px;
+    width:270px;
+    font-size: 15px;
+    border-bottom-color: rgb(255,255,255);
+    border-style:solid;
+    border-top-color:rgb(255,255,255);
+    border-right-color:rgb(172, 166, 166);
+    border-left-color:rgb(255,255,255);
+    border-width:thin;
+    padding-bottom: 120px;
+    padding-top: 20px;
+    
+
+    
     }
     #fut1{
         font-size:20px;
-        width:20%;
+        width:215px;
         padding: 0px 10px 20px 50px;
         font-family:arial;
         font-weight:bold;
+        
     }
     #fut1 a{
         text-decoration:#31B404 ;
@@ -201,7 +220,7 @@
     }
         #fut2{
             font-size:20px;
-            width: 10px;
+            width:215px;
             padding: 0px 10px 20px 50px;
             font-family:arial;
             font-weight:bold;  
@@ -215,7 +234,7 @@
         }
         #fut3{
             font-size:20px;
-            width: 170px;
+            width:215px;
             padding: 0px 10px 20px 50px;
             font-family:arial;
             font-weight:bold;
@@ -224,6 +243,7 @@
         #fut3{
             text-decoration: #31B404;
         color:#31B404;
+        width:200px;
         }
         #fut4{
             font-size:20px;
@@ -243,7 +263,9 @@
         #noticiasfuteis{
             float:left;
             width:200px;
-            background-color:yellow;
+            padding-top: 20px;
+            padding-left: 20px;
+            
         }
         #not1{
             font-size:20px;
@@ -251,8 +273,8 @@
             padding: 0px 10px 10px 10px;
             font-family:arial;
             font-weight:bold;
-            text-decoration: #DF0101;
-        color:#DF0101;
+            text-decoration: rgba(247, 94, 6, 0.979);
+        color:rgba(247, 94, 6, 0.979);
         }
         #not2{
             font-size:20px;
@@ -262,11 +284,11 @@
             font-weight:bold;
         }
         #not2 a{
-            text-decoration: #DF0101;
-        color:#DF0101;
+            text-decoration: rgba(247, 94, 6, 0.979);
+        color:rgba(247, 94, 6, 0.979);
         }
         #not2 a:hover{
-            color: rgb(245, 66, 66);
+            color: rgba(245, 117, 43, 0.979);
         }
         #not3{
             font-size:20px;
@@ -276,11 +298,11 @@
             font-weight:bold;
         }
         #not3 a{
-            text-decoration: #DF0101;
-        color:#DF0101;
+            text-decoration: rgba(247, 94, 6, 0.979);
+        color:rgba(247, 94, 6, 0.979);
         }
         #not3 a:hover{
-            color: rgb(245, 66, 66);
+            color: rgba(245, 117, 43, 0.979);
         }
 
         
